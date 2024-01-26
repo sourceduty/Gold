@@ -50,6 +50,8 @@ Designing a chemical-leaching gold mining machine requires a deep understanding 
 
 ***
 
+## Electrochemical Gel
+
 1. **Electrochemical Gel**:
    
    - Choose a semi-permeable gel material that can conduct electricity and has selective affinity for gold ions. Conductive hydrogels or polymers modified with specific ligands for gold ions may be suitable candidates.
