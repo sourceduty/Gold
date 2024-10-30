@@ -20,6 +20,10 @@ Additionally, Sourceduty’s integration of AI tools like GPT into the design pr
 [Heavy Equipemt](https://github.com/sourceduty/Heavy_Equipment)
 <br>
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+<br>
+[Wood Machine](https://github.com/sourceduty/Wood_Machine)
+<br>
+[Mechanical Design](https://github.com/sourceduty/Mechanical_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
