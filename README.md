@@ -15,6 +15,8 @@ Mining Machine also emphasizes best practices in safety standards, environmental
 ![Mining](https://github.com/user-attachments/assets/0fbbdaaa-162a-4c34-93c2-9b9ded98d8f9)
 #
 ![Gold Machine](https://github.com/sourceduty/Gold/assets/123030236/fb2673ad-dcdc-4554-9834-505d52fb6fec)
+#
+![Mining Truck](https://github.com/user-attachments/assets/201fec27-e299-4f6c-a3dc-f8fac5b4a8da)
 
 #
 ### Related Links
