@@ -16,6 +16,10 @@ Additionally, Sourceduty’s integration of AI tools like GPT into the design pr
 [Modern Origin](https://github.com/sourceduty/Modern_Origin)
 <br>
 [Vending Recycler](https://github.com/sourceduty/Vending_Recycler)
+<br>
+[Heavy Equipemt](https://github.com/sourceduty/Heavy_Equipment)
+<br>
+[Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
