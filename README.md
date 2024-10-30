@@ -10,6 +10,10 @@ In addition to mechanical design support, Mining Machine offers guidance on soft
 Mining Machine also emphasizes best practices in safety standards, environmental impact reduction, and sustainable operations. Mining and rock processing can have significant environmental and safety challenges, and this GPT is equipped to provide recommendations on dust control, noise reduction, waste management, and compliance with industry standards. It encourages the adoption of innovative and sustainable engineering practices that mitigate the environmental footprint of mining activities, contributing to safer and more responsible mining operations.
 
 #
+![Gold](https://github.com/user-attachments/assets/7eb597b0-7031-4af4-816e-0a0c7090c42a)
+#
+![Mining](https://github.com/user-attachments/assets/0fbbdaaa-162a-4c34-93c2-9b9ded98d8f9)
+#
 ![Gold Machine](https://github.com/sourceduty/Gold/assets/123030236/fb2673ad-dcdc-4554-9834-505d52fb6fec)
 
 #
